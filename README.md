@@ -51,27 +51,38 @@ xdg-open home.html   # Linux
 ## 💻 Usage
 
 ```bash
-Usage
-Open the website in your browser.
-Navigate through the different sections using the navigation menu.
-Explore information about Anirudh Ravichander, including biography, music, and media content.
-View images and multimedia content available on the website.
-Access the website on desktop, tablet, or mobile devices for a responsive experience.
+## Usage
+
+1. Open the website in your browser.
+2. Navigate through the different sections using the navigation menu.
+3. Explore information about Anirudh Ravichander, including biography, music, and media content.
+4. View images and multimedia content available on the website.
+5. Access the website on desktop, tablet, or mobile devices for a responsive experience.
+
 Example:
 
+```bash
 # Open the project
 start home.html
+```
+
 Then visit the homepage and browse the available sections.
+```
 ```
 
 ## ✨ Features
 
-- ✅ Features:
-- ✅ Responsive and user-friendly interface.
-- ✅ Dedicated sections for artist biography, songs, and media content.
-- ✅ Interactive navigation with smooth user experience.
-- ✅ Integration of multimedia content such as images and videos.
-- ✅ Cross-device compatibility.
+- ✅ ## Features
+- ✅ - Responsive design compatible with desktop, tablet, and mobile devices.
+- ✅ - Clean and user-friendly interface.
+- ✅ - Dedicated biography section for Anirudh Ravichander.
+- ✅ - Image gallery showcasing the artist.
+- ✅ - Music and media content integration.
+- ✅ - Easy navigation with a structured menu.
+- ✅ - Interactive web elements using JavaScript.
+- ✅ - Fast-loading static website built with HTML, CSS, and JavaScript.
+- ✅ - Modern and visually appealing layout.
+- ✅ - Cross-browser compatibility.
 
 ## 🤝 Contributing
 
@@ -97,6 +108,3 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ---
 
 <div align="center">Made with ❤️ by TEJ</div>
-
-link->
- https://safe-aquamarine-utpzmg0g.edgeone.dev/TEJ_KA_FIRST_ATTEMPT.html
